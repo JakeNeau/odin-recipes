@@ -1,2 +1,1 @@
-# odin-recipes
-A short website project I'm making while learning web design
+A website I made while learning web development
